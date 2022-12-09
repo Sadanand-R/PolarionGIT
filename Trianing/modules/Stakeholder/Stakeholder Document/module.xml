@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <field id="author">admin</field>
+    <field id="created">2022-12-07 14:08:21.865 +0530</field>
+    <field id="homePageContent" text-type="text/html">
+        <![CDATA[<h1 id="polarion_wiki macro name=module-workitem;params=id=SCRUM--401"></h1><div id="polarion_wiki macro name=toc"></div><div data-sequence="Figure" id="polarion_wiki macro name=tof;params=uid=1"></div><h2 id="polarion_wiki macro name=module-workitem;params=id=SCRUM--398"></h2><p id="polarion_2">This is Intro to the stakeholder Document</p><h3 id="polarion_wiki macro name=module-workitem;params=id=SCRUM--399"></h3><p id="polarion_4">Purpose of this document is to mention stakeholder requirements in technical terminology</p><h2 id="polarion_wiki macro name=module-workitem;params=id=SCRUM--400"></h2><div id="polarion_wiki macro name=module-workitem;params=id=SCRUM--391"></div><div id="polarion_wiki macro name=module-workitem;params=id=SCRUM--402"></div><p id="polarion_3" data-keep-next="true">
+  <img src="attachment:diagram_20221207-1433.39157.mxg.png" data-lastmodified="2022-12-07T14:34:09.560+05:30"/>
+</p><p id="polarion_1" style="text-align: left;" class="polarion-rte-caption-paragraph">
+                                                                Figure <span data-sequence="Figure" class="polarion-rte-caption">#</span> Car Features
+</p>]]>
+    </field>
+    <field id="renderingLayouts">
+        <list>
+            <struct>
+                <item id="label">Epic</item>
+                <item id="layouter">section</item>
+                <item id="properties">
+                    <list>
+                        <struct>
+                            <item id="key">fieldsAtStart</item>
+                            <item id="value">id</item>
+                        </struct>
+                        <struct>
+                            <item id="key">fieldsAtEnd</item>
+                            <item id="value">severity,status,epicEstimate,targetVersion</item>
+                        </struct>
+                        <struct>
+                            <item id="key">fieldsAtEndAsTable</item>
+                            <item id="value">false</item>
+                        </struct>
+                        <struct>
+                            <item id="key">sidebarWorkItemFields</item>
+                            <item id="value">severity,status,epicEstimate,targetVersion</item>
+                        </struct>
+                    </list>
+                </item>
+                <item id="type">epic</item>
+            </struct>
+        </list>
+    </field>
+    <field id="status">draft</field>
+    <field id="structureLinkRole">parent</field>
+    <field id="title">Stakeholder Document</field>
+    <field id="type">generic</field>
+    <field id="usesOutlineNumbering">true</field>
+</module>

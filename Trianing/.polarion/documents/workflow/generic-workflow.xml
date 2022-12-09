@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow initial-action="rework" initial-status="draft" prototype="Module">
+    <transitions>
+        <transition action="submitreview" from="draft" to="inreview"/>
+        <transition action="approve" from="inreview" to="reviewed"/>
+        <transition action="rework" from="reviewed" to="draft"/>
+        <transition action="rework" from="inreview" to="draft"/>
+        <transition action="submitreview" from="re-work" to="inreview"/>
+    </transitions>
+    <actions>
+        <action id="rework" name="Rework">
+            <cleared>
+                <field name="version"/>
+            </cleared>
+        </action>
+        <action id="submitreview" name="Submit For Review">
+            <required>
+                <field name="version"/>
+            </required>
+            <functions>
+                <function name="InvokeAction">
+                    <param name="statusId" value="reviewed"/>
+                    <param name="actionId" value="review"/>
+                    <param name="query" value="status:readyforreview"/>
+                </function>
+            </functions>
+        </action>
+        <action id="approve" name="Approved">
+            <functions>
+                <function name="InvokeAction">
+                    <param name="statusId" value="approved"/>
+                    <param name="actionId" value="approve"/>
+                    <param name="query" value="status:reviewed"/>
+                </function>
+            </functions>
+        </action>
+    </actions>
+</workflow>

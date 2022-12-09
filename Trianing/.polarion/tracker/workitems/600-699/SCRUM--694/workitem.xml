@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<work-item>
+    <field id="author">admin</field>
+    <field id="budget" type="integer">100</field>
+    <field id="created">2022-12-08 14:45:56.268 +0530</field>
+    <field id="initialEstimate">60h</field>
+    <field id="priority">50.0</field>
+    <field id="remainingEstimate">60h</field>
+    <field id="severity">normal</field>
+    <field id="status">open</field>
+    <field id="title">Parent WI</field>
+    <field id="type">task</field>
+</work-item>

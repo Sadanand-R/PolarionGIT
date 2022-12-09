@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plan>
+    <field id="allowedTypes">
+        <list>
+            <item>userstory</item>
+        </list>
+    </field>
+    <field id="author">admin</field>
+    <field id="calculationType">customFieldBased</field>
+    <field id="capacity">80.0</field>
+    <field id="created">2022-12-07 11:35:48.114 +0530</field>
+    <field id="description" text-type="text/plain">Iterations are short time frames (timeboxes) that typically last from one to four weeks.</field>
+    <field id="dueDate">2022-12-16</field>
+    <field id="estimationField">storyPoints</field>
+    <field id="name">Sprint 1</field>
+    <field id="parent">Release_1_0</field>
+    <field id="prioritizationField">priority</field>
+    <field id="records">
+        <list>
+            <struct>
+                <item id="item">SCRUM--392</item>
+            </struct>
+        </list>
+    </field>
+    <field id="startDate">2022-12-05</field>
+    <field id="startedOn">2022-12-07 11:46:27.193 +0530</field>
+    <field id="status">inprogress</field>
+    <field id="template">iteration</field>
+    <field id="useReportFromTemplate">true</field>
+</plan>

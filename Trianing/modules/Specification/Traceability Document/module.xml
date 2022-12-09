@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <field id="author">admin</field>
+    <field id="created">2022-12-08 13:54:27.836 +0530</field>
+    <field id="crossReferenceMappingData">f0ea5fbb-c0a8f58d-48430066-c182d339=Trianing/SCRUM--667,f0ea5fbb-c0a8f58d-48430066-11c05191=Trianing/SCRUM--666,f0ea5fbb-c0a8f58d-48430066-12bdd566=Trianing/SCRUM--665,f0e812f0-c0a8f58d-48430066-5065f7f6=Trianing/SCRUM--686</field>
+    <field id="homePageContent" text-type="text/html">&lt;h1 id="polarion_wiki macro name=module-workitem;params=id=SCRUM--670"&gt;&lt;/h1&gt;&lt;p id="polarion_template_0"&gt;&lt;/p&gt;&lt;h2 id="polarion_wiki macro name=module-workitem;params=id=SCRUM--672"&gt;&lt;/h2&gt;&lt;div id="polarion_wiki macro name=module-workitem;params=id=SCRUM--676"&gt;&lt;/div&gt;&lt;p id="polarion_1"&gt;&lt;/p&gt;&lt;h2 id="polarion_wiki macro name=module-workitem;params=id=SCRUM--673"&gt;&lt;/h2&gt;&lt;div id="polarion_wiki macro name=module-workitem;params=id=SCRUM--677"&gt;&lt;/div&gt;&lt;div id="polarion_wiki macro name=module-workitem;params=id=SCRUM--678"&gt;&lt;/div&gt;&lt;p id="polarion_2"&gt;&lt;/p&gt;&lt;h2 id="polarion_wiki macro name=module-workitem;params=id=SCRUM--674"&gt;&lt;/h2&gt;&lt;div id="polarion_wiki macro name=module-workitem;params=id=SCRUM--679"&gt;&lt;/div&gt;&lt;div id="polarion_wiki macro name=module-workitem;params=id=SCRUM--680"&gt;&lt;/div&gt;&lt;div id="polarion_wiki macro name=module-workitem;params=id=SCRUM--681"&gt;&lt;/div&gt;&lt;div id="polarion_wiki macro name=module-workitem;params=id=SCRUM--675"&gt;&lt;/div&gt;&lt;div id="polarion_wiki macro name=module-workitem;params=id=SCRUM--671"&gt;&lt;/div&gt;&lt;p id="polarion_3"&gt;&lt;/p&gt;&lt;h2 id="polarion_wiki macro name=module-workitem;params=id=SCRUM--682"&gt;&lt;/h2&gt;&lt;div id="polarion_wiki macro name=module-workitem;params=id=SCRUM--683|layout=1"&gt;&lt;/div&gt;&lt;div id="polarion_wiki macro name=module-workitem;params=id=SCRUM--684|layout=1"&gt;&lt;/div&gt;&lt;h2 id="polarion_wiki macro name=module-workitem;params=id=SCRUM--685"&gt;&lt;/h2&gt;&lt;div id="polarion_wiki macro name=module-workitem;params=id=SCRUM--686|layout=2|anchor=f0e812f0-c0a8f58d-48430066-5065f7f6"&gt;&lt;/div&gt;&lt;h2 id="polarion_wiki macro name=module-workitem;params=id=SCRUM--687"&gt;&lt;/h2&gt;&lt;div id="polarion_wiki macro name=module-workitem;params=id=SCRUM--667|layout=3|external=true|anchor=f0ea5fbb-c0a8f58d-48430066-c182d339"&gt;&lt;/div&gt;&lt;div id="polarion_wiki macro name=module-workitem;params=id=SCRUM--666|layout=3|external=true|anchor=f0ea5fbb-c0a8f58d-48430066-11c05191"&gt;&lt;/div&gt;&lt;div id="polarion_wiki macro name=module-workitem;params=id=SCRUM--665|layout=3|external=true|anchor=f0ea5fbb-c0a8f58d-48430066-12bdd566"&gt;&lt;/div&gt;&lt;p id="polarion_5"&gt;&lt;/p&gt;</field>
+    <field id="renderingLayouts">
+        <list>
+            <struct>
+                <item id="label">Requirement</item>
+                <item id="layouter">paragraph</item>
+                <item id="properties">
+                    <list>
+                        <struct>
+                            <item id="key">fieldsAtStart</item>
+                            <item id="value">id</item>
+                        </struct>
+                        <struct>
+                            <item id="key">fieldsAtEnd</item>
+                            <item id="value">status</item>
+                        </struct>
+                        <struct>
+                            <item id="key">sidebarWorkItemFields</item>
+                            <item id="value">severity,status</item>
+                        </struct>
+                    </list>
+                </item>
+                <item id="type">requirement</item>
+            </struct>
+            <struct>
+                <item id="label">Design requirement</item>
+                <item id="layouter">paragraph</item>
+                <item id="properties">
+                    <list>
+                        <struct>
+                            <item id="key">sidebarWorkItemFields</item>
+                            <item id="value">severity,status</item>
+                        </struct>
+                    </list>
+                </item>
+                <item id="type">design</item>
+            </struct>
+            <struct>
+                <item id="label">Task</item>
+                <item id="layouter">paragraph</item>
+                <item id="properties">
+                    <list>
+                        <struct>
+                            <item id="key">sidebarWorkItemFields</item>
+                            <item id="value">severity,status</item>
+                        </struct>
+                    </list>
+                </item>
+                <item id="type">task</item>
+            </struct>
+            <struct>
+                <item id="label">Test Case</item>
+                <item id="layouter">titleDescTestSteps</item>
+                <item id="properties">
+                    <list>
+                        <struct>
+                            <item id="key">sidebarWorkItemFields</item>
+                            <item id="value">severity,status</item>
+                        </struct>
+                    </list>
+                </item>
+                <item id="type">testcase</item>
+            </struct>
+            <struct>
+                <item id="label">Issue</item>
+                <item id="layouter">paragraph</item>
+                <item id="properties">
+                    <list>
+                        <struct>
+                            <item id="key">sidebarWorkItemFields</item>
+                            <item id="value">severity,status</item>
+                        </struct>
+                    </list>
+                </item>
+                <item id="type">issue</item>
+            </struct>
+        </list>
+    </field>
+    <field id="status">draft</field>
+    <field id="structureLinkRole">parent</field>
+    <field id="title">Traceability Document</field>
+    <field id="type">generic</field>
+    <field id="usesOutlineNumbering">true</field>
+</module>

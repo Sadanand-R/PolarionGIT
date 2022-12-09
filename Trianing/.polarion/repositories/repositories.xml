@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repositories>
+  <GitHub>
+    <id>PolarionGIt</id>
+    <name>Polarion-Git</name>
+    <enabled>true</enabled>
+    <apiUrl>https://api.github.com</apiUrl>
+    <repositoryOwner>Sadanand</repositoryOwner>
+    <repositoryName>PolarionGIT</repositoryName>
+  </GitHub>
+</repositories>

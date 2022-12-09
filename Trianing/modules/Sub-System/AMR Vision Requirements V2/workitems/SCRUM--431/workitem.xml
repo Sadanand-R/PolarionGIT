@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">waiting</item>
+                <item id="user">admin</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">admin</field>
+    <field id="created">2022-12-07 14:40:47.037 +0530</field>
+    <field id="description" text-type="text/html">&lt;p&gt;&lt;span&gt;The direction control mechanism shall be hand operated and require no more than 2 inches of&amp;nbsp;&amp;nbsp;hand movement from the steering wheel for successful operation.&lt;/span&gt;&lt;/p&gt;</field>
+    <field id="previousStatus">draft</field>
+    <field id="priority">50.0</field>
+    <field id="severity">should_have</field>
+    <field id="status">reviewed</field>
+    <field id="type">requirement</field>
+</work-item>

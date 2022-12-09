@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<baseline>
+    <field id="author">admin</field>
+    <field id="baseObject">{Module}{moduleFolder}Branching and Merging#Master Document</field>
+    <field id="baseRevision">433</field>
+    <field id="description" text-type="text/plain">Milestone 1</field>
+    <field id="name">Milestone 1</field>
+</baseline>

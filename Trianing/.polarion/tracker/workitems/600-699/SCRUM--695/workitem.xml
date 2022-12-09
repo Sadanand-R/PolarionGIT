@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<work-item>
+    <field id="author">admin</field>
+    <field id="created">2022-12-09 14:10:36.473 +0530</field>
+    <field id="description" text-type="text/html">Integration of Polarion with Git Hub using Git Hub Desktop</field>
+    <field id="priority">50.0</field>
+    <field id="severity">should_have</field>
+    <field id="status">open</field>
+    <field id="title">Integration of Polarion with Git Hub using Git Hub Desktop</field>
+    <field id="type">custom</field>
+</work-item>

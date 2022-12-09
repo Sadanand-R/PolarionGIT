@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autoassignment>
+    <rule>
+        <condition>
+            <field id="type">
+                <value><![CDATA[custom]]></value>
+            </field>
+
+            <field id="categories">
+                <value><![CDATA[ui]]></value>
+            </field>
+
+        </condition>
+
+        <assignee>
+            <user id="andy"/>
+        </assignee>
+
+    </rule>
+
+</autoassignment>

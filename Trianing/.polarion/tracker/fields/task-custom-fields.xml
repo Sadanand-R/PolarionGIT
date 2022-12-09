@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fields>
+    <field id="budget" name="Budget" type="integer"/>
+    <field id="remainbudget" name="Remaining Budget" type="integer"/>
+</fields>

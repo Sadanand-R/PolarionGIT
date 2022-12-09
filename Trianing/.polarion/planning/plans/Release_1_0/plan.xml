@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plan>
+    <field id="allowedTypes">
+        <list>
+            <item>userstory</item>
+        </list>
+    </field>
+    <field id="author">admin</field>
+    <field id="calculationType">customFieldBased</field>
+    <field id="capacity">160.0</field>
+    <field id="created">2022-12-07 11:32:22.617 +0530</field>
+    <field id="description" text-type="text/plain">The release plan specifies which Work Items are going to be implemented for each system release and dates for those releases. These selected Work Items are then translated into individual tasks to be implemented during the iteration to complete the Work Items.</field>
+    <field id="dueDate">2022-12-30</field>
+    <field id="estimationField">storyPoints</field>
+    <field id="name">Release 1.0</field>
+    <field id="prioritizationField">priority</field>
+    <field id="projectSpan">
+        <list>
+            <item>Trianing</item>
+        </list>
+    </field>
+    <field id="records">
+        <list>
+            <struct>
+                <item id="item">SCRUM--392</item>
+            </struct>
+            <struct>
+                <item id="item">SCRUM--397</item>
+            </struct>
+        </list>
+    </field>
+    <field id="startDate">2022-12-05</field>
+    <field id="startedOn">2022-12-07 11:34:43.616 +0530</field>
+    <field id="status">inprogress</field>
+    <field id="template">release</field>
+    <field id="useReportFromTemplate">true</field>
+</plan>

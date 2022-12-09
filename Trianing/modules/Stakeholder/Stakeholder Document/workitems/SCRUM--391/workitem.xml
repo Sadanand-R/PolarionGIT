@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<work-item>
+    <field id="assignee">admin</field>
+    <field id="author">admin</field>
+    <field id="categories">
+        <list>
+            <item>api</item>
+        </list>
+    </field>
+    <field id="created">2022-12-07 11:39:31.431 +0530</field>
+    <field id="description" text-type="text/html">Entertainment_changed but suspect should propogated &lt;br/&gt;</field>
+    <field id="epicEstimate" type="enum:tshirt-sizes">l</field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="role">satisfy</item>
+                <item id="suspect">true</item>
+                <item id="workItem">SCRUM--549</item>
+            </struct>
+            <struct>
+                <item id="role">satisfy</item>
+                <item id="suspect">true</item>
+                <item id="workItem">SCRUM--550</item>
+            </struct>
+        </list>
+    </field>
+    <field id="previousStatus">accepted</field>
+    <field id="priority">50.0</field>
+    <field id="severity">must_have</field>
+    <field id="status">inprogress</field>
+    <field id="targetVersion" type="enum:@plan[template.id:release]">Release_1_0</field>
+    <field id="title">Entertainment_changed but suspect should propogated</field>
+    <field id="type">epic</field>
+</work-item>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<shortcuts>
+    <shortcut icon="/polarion/icons/default/topicIcons/home.svg" name="Home" pagePath="home"/>
+    <shortcut icon="/polarion/icons/default/topicIcons/quality.svg" name="Dashboard" pagePath="wiki/Dashboard"/>
+    <shortcut icon="/polarion/icons/default/topicIcons/Fancy_240-sketchbook.svg" name="Specification" pagePath="wiki" subPath="Specification/Home"/>
+    <shortcut icon="/polarion/icons/default/topicIcons/Sport_129-golf.svg" name="Planning" pagePath="wiki" subPath="Planning/Home"/>
+    <shortcut icon="/polarion/icons/default/topicIcons/App_20-gear-2.svg" name="Development" pagePath="wiki" subPath="Development/Home"/>
+    <shortcut icon="/polarion/icons/default/topicIcons/Tools_258-checkmark.svg" name="Testing" pagePath="wiki" subPath="Testing/Home"/>
+    <shortcut icon="/polarion/icons/default/topicIcons/Travel_247-dancesteps.svg" name="Maintenance" pagePath="wiki/Maintenance/Home" pageTitle="Maintenance" spaceTitle="Maintenance"/>
+</shortcuts>

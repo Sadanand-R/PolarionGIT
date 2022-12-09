@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test-run>
+    <field id="author">admin</field>
+    <field id="created">2022-12-08 12:12:12.467 +0530</field>
+    <field id="groupId">- - enter build id - -</field>
+    <field id="records">
+        <list>
+            <struct>
+                <item id="comment" text-type="text/html">&lt;span style="font-size: 10pt;line-height: 1.5;"&gt;Passed&lt;/span&gt;</item>
+                <item id="executed">2022-12-08 12:15:15.231 +0530</item>
+                <item id="executedBy">admin</item>
+                <item id="result">passed</item>
+                <item id="signed">true</item>
+                <item id="testCase">SCRUM--667</item>
+                <item id="testCaseRevision">504</item>
+                <item id="testStepResults">
+                    <list>
+                        <struct>
+                            <item id="comment" text-type="text/html">&lt;span style="font-size: 10pt;line-height: 1.5;"&gt;Offline 3&lt;/span&gt;</item>
+                            <item id="result">passed</item>
+                        </struct>
+                    </list>
+                </item>
+            </struct>
+            <struct>
+                <item id="comment" text-type="text/html">&lt;span style="font-size: 10pt;line-height: 1.5;"&gt;passed&lt;/span&gt;</item>
+                <item id="executed">2022-12-08 12:15:15.216 +0530</item>
+                <item id="executedBy">admin</item>
+                <item id="result">passed</item>
+                <item id="signed">true</item>
+                <item id="testCase">SCRUM--666</item>
+                <item id="testCaseRevision">504</item>
+                <item id="testStepResults">
+                    <list>
+                        <struct>
+                            <item id="comment" text-type="text/html">&lt;span style="font-size: 10pt;line-height: 1.5;"&gt;Offline 2&lt;/span&gt;</item>
+                            <item id="result">passed</item>
+                        </struct>
+                    </list>
+                </item>
+            </struct>
+            <struct>
+                <item id="comment" text-type="text/html">&lt;span style="font-size: 10pt;line-height: 1.5;"&gt;Falied&lt;/span&gt;</item>
+                <item id="defect">SCRUM--669</item>
+                <item id="executed">2022-12-08 12:15:15.153 +0530</item>
+                <item id="executedBy">admin</item>
+                <item id="result">failed</item>
+                <item id="signed">true</item>
+                <item id="testCase">SCRUM--665</item>
+                <item id="testCaseRevision">504</item>
+                <item id="testStepResults">
+                    <list>
+                        <struct>
+                            <item id="comment" text-type="text/html">&lt;span style="font-size: 10pt;line-height: 1.5;"&gt;Offline 1&lt;/span&gt;</item>
+                            <item id="result">passed</item>
+                        </struct>
+                        <struct>
+                            <item id="comment" text-type="text/html">&lt;span style="font-size: 10pt;line-height: 1.5;"&gt;not coming&lt;/span&gt;</item>
+                            <item id="result">failed</item>
+                        </struct>
+                    </list>
+                </item>
+            </struct>
+        </list>
+    </field>
+    <field id="selectTestCasesBy">manualSelection</field>
+    <field id="status">open</field>
+    <field id="template">Empty</field>
+    <field id="title">Offline TR</field>
+    <field id="type">manual</field>
+    <field id="useReportFromTemplate">true</field>
+</test-run>

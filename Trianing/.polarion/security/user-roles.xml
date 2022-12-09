@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<user-roles>
+    <user name="admin">
+        <role name="project_admin"/>
+        <role name="project_assignable"/>
+        <role name="project_approver"/>
+    </user>
+    <user name="sandy">
+        <role name="project_assignable"/>
+    </user>
+    <user name="andy">
+        <role name="project_assignable"/>
+    </user>
+</user-roles>

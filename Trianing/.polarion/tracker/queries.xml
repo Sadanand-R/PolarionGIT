@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<queries>
+    <query name="Awaiting Review" query="status:draft"/>
+    <query name="Not (Heading Task)" query="NOT HAS_VALUE:resolution AND NOT type:(heading task)"/>
+    <query name="Custom" query="type:custom"/>
+</queries>

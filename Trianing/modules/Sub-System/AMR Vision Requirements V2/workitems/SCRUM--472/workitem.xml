@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">waiting</item>
+                <item id="user">admin</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">admin</field>
+    <field id="created">2022-12-07 14:40:47.896 +0530</field>
+    <field id="description" text-type="text/html">&lt;p&gt;&lt;span&gt;The vehicle shall meet the environmental conditions as agreed in the European treaty dated 1 Jan 1993 for the disposal of&amp;nbsp;&amp;nbsp;used cars.&lt;/span&gt;&lt;/p&gt;</field>
+    <field id="previousStatus">draft</field>
+    <field id="priority">50.0</field>
+    <field id="severity">should_have</field>
+    <field id="status">reviewed</field>
+    <field id="type">requirement</field>
+</work-item>

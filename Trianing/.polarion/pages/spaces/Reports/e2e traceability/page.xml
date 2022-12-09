@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rich-page>
+    <field id="author">admin</field>
+    <field id="created">2022-12-08 14:19:59.526 +0530</field>
+    <field id="homePageContent" text-type="text/html">
+        <![CDATA[<div class="polarion-rp-column" style="width&#58; 100%;">
+  <h1 id="polarion_hardcoded_0">e2e traceability</h1>
+  <p id="polarion_hardcoded_1">This Page has no content yet</p>
+</div>
+<div class="polarion-rp-row-separator"></div>
+<div class="polarion-rp-column" style="width&#58; 70%;">
+  <p id="polarion_hardcoded_2"></p>
+</div>
+<div class="polarion-rp-column" style="width&#58; 30%;">
+  <p id="polarion_hardcoded_3"></p>
+</div>
+<div class="polarion-rp-row-separator"></div>]]>
+    </field>
+    <field id="title">e2e traceability</field>
+</rich-page>

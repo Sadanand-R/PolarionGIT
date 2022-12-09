@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<work-item>
+    <field id="author">admin</field>
+    <field id="created">2022-12-08 12:11:42.061 +0530</field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="role">verifies</item>
+                <item id="workItem">SCRUM--677</item>
+            </struct>
+        </list>
+    </field>
+    <field id="previousStatus">draft</field>
+    <field id="priority">50.0</field>
+    <field id="severity">basic</field>
+    <field id="status">draft</field>
+    <field id="testSteps" type="struct:TestSteps">
+        <struct>
+            <item id="keys">
+                <list>
+                    <item>step</item>
+                    <item>description</item>
+                    <item>expectedResult</item>
+                </list>
+            </item>
+            <item id="steps">
+                <list>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">1</item>
+                                <item text-type="text/html">offline3</item>
+                                <item text-type="text/html">
+                                    <![CDATA[offline 3<br/>
+      ]]>
+                                </item>
+                            </list>
+                        </item>
+                    </struct>
+                </list>
+            </item>
+        </struct>
+    </field>
+    <field id="testType" type="enum:testtype">manual</field>
+    <field id="title">Offline test case 3</field>
+    <field id="type">testcase</field>
+</work-item>

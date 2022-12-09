@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <parameters>
+    <parameter>
+      <name>Browser</name>
+    </parameter>
+    <parameter>
+      <name>password</name>
+    </parameter>
+    <parameter>
+      <name>usename</name>
+    </parameter>
+  </parameters>
+</library>

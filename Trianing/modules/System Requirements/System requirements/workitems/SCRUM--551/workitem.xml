@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<work-item>
+    <field id="assignee">sandy</field>
+    <field id="author">admin</field>
+    <field id="created">2022-12-07 15:01:09.084 +0530</field>
+    <field id="description" text-type="text/plain">Demo Story 3</field>
+    <field id="priority">50.0</field>
+    <field id="severity">should_have</field>
+    <field id="status">inprogress</field>
+    <field id="title">Demo Story 3</field>
+    <field id="type">userstory</field>
+</work-item>

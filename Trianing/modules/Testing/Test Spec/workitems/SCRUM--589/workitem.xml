@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<work-item>
+    <field id="author">admin</field>
+    <field id="created">2022-12-08 10:59:27.390 +0530</field>
+    <field id="description" text-type="text/html">This test case describes the testing of the login page&lt;br/&gt;</field>
+    <field id="previousStatus">draft</field>
+    <field id="priority">50.0</field>
+    <field id="severity">basic</field>
+    <field id="status">draft</field>
+    <field id="testSteps" type="struct:TestSteps">
+        <struct>
+            <item id="keys">
+                <list>
+                    <item>step</item>
+                    <item>description</item>
+                    <item>expectedResult</item>
+                </list>
+            </item>
+            <item id="steps">
+                <list>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">1</item>
+                                <item text-type="text/html">
+                                    <![CDATA[Access the URL using the <span class="polarion-rte-testParameter" data-name="Browser">Browser</span> <br/>
+        ]]>
+                                </item>
+                                <item text-type="text/html">Webpage should come</item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html">2</item>
+                                <item text-type="text/html">
+                                    <![CDATA[Login Page should have username and password fields<br/>
+      ]]>
+                                </item>
+                                <item text-type="text/html">
+                                    <![CDATA[Login Page should have username and password fields<br/>
+      ]]>
+                                </item>
+                            </list>
+                        </item>
+                    </struct>
+                    <struct>
+                        <item id="values">
+                            <list>
+                                <item text-type="text/html"/>
+                                <item text-type="text/html">
+                                    <![CDATA[login with <span class="polarion-rte-testParameter" data-name="usename">usename</span> and <span class="polarion-rte-testParameter" data-name="password">password</span><br/>
+      ]]>
+                                </item>
+                                <item text-type="text/html">
+                                    <![CDATA[shoud login<br/>
+      ]]>
+                                </item>
+                            </list>
+                        </item>
+                    </struct>
+                </list>
+            </item>
+        </struct>
+    </field>
+    <field id="testType" type="enum:testtype">manual</field>
+    <field id="title">Login Page</field>
+    <field id="type">testcase</field>
+</work-item>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <field id="active">true</field>
+    <field id="description" text-type="text/plain">This text comes from the project's Description in the Administration perspective.</field>
+    <field id="lead">admin</field>
+    <field id="name">Trianing</field>
+    <field id="start">2022-12-07</field>
+    <field id="trackerPrefix">SCRUM-</field>
+</project>

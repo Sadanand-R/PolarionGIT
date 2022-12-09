@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <field id="author">admin</field>
+    <field id="created">2022-12-08 10:51:33.980 +0530</field>
+    <field id="homePageContent" text-type="text/html">&lt;h1 id="polarion_wiki macro name=module-workitem;params=id=SCRUM--588"&gt;&lt;/h1&gt;&lt;h2 id="polarion_wiki macro name=module-workitem;params=id=SCRUM--582"&gt;&lt;/h2&gt;&lt;p id="polarion_2"&gt;This is Intro to the test spec&lt;/p&gt;&lt;h2 id="polarion_wiki macro name=module-workitem;params=id=SCRUM--583"&gt;&lt;/h2&gt;&lt;p id="polarion_3"&gt;This defines the test objective&lt;/p&gt;&lt;h2 id="polarion_wiki macro name=module-workitem;params=id=SCRUM--584"&gt;&lt;/h2&gt;&lt;p id="polarion_4"&gt;This defines the quality Objectives&lt;/p&gt;&lt;h2 id="polarion_wiki macro name=module-workitem;params=id=SCRUM--585"&gt;&lt;/h2&gt;&lt;p id="polarion_5"&gt;This defines the entry criteria&lt;/p&gt;&lt;h2 id="polarion_wiki macro name=module-workitem;params=id=SCRUM--586"&gt;&lt;/h2&gt;&lt;p id="polarion_6"&gt;This defines the exit criteria&lt;/p&gt;&lt;h2 id="polarion_wiki macro name=module-workitem;params=id=SCRUM--587"&gt;&lt;/h2&gt;&lt;div id="polarion_wiki macro name=module-workitem;params=id=SCRUM--589"&gt;&lt;/div&gt;&lt;div id="polarion_wiki macro name=module-workitem;params=id=SCRUM--665"&gt;&lt;/div&gt;&lt;div id="polarion_wiki macro name=module-workitem;params=id=SCRUM--666"&gt;&lt;/div&gt;&lt;div id="polarion_wiki macro name=module-workitem;params=id=SCRUM--667"&gt;&lt;/div&gt;&lt;p id="polarion_1"&gt;&lt;/p&gt;</field>
+    <field id="renderingLayouts">
+        <list>
+            <struct>
+                <item id="label">Test Case</item>
+                <item id="layouter">titleDescTestSteps</item>
+                <item id="properties">
+                    <list>
+                        <struct>
+                            <item id="key">fieldsAtStart</item>
+                            <item id="value">id</item>
+                        </struct>
+                        <struct>
+                            <item id="key">fieldsAtEnd</item>
+                            <item id="value">status</item>
+                        </struct>
+                        <struct>
+                            <item id="key">sidebarWorkItemFields</item>
+                            <item id="value">severity,status</item>
+                        </struct>
+                    </list>
+                </item>
+                <item id="type">testcase</item>
+            </struct>
+        </list>
+    </field>
+    <field id="status">draft</field>
+    <field id="structureLinkRole">parent</field>
+    <field id="title">Test Spec</field>
+    <field id="type">generic</field>
+    <field id="usesOutlineNumbering">true</field>
+</module>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <field id="author">admin</field>
+    <field id="branchedFrom">Branching and Merging#Master Document%420</field>
+    <field id="created">2022-12-07 17:04:15.859 +0530</field>
+    <field id="crossReferenceMappingData">Trianing/SCRUM--567=Trianing/SCRUM--568</field>
+    <field id="homePageContent" text-type="text/html">&lt;h1 id="polarion_wiki macro name=module-workitem;params=id=SCRUM--568"&gt;&lt;/h1&gt;&lt;h2 id="polarion_wiki macro name=module-workitem;params=id=SCRUM--578"&gt;&lt;/h2&gt;&lt;div id="polarion_wiki macro name=module-workitem;params=id=SCRUM--562|external=true"&gt;&lt;/div&gt;&lt;div id="polarion_wiki macro name=module-workitem;params=id=SCRUM--563|external=true"&gt;&lt;/div&gt;&lt;div id="polarion_wiki macro name=module-workitem;params=id=SCRUM--564|external=true"&gt;&lt;/div&gt;&lt;div id="polarion_wiki macro name=module-workitem;params=id=SCRUM--565|external=true"&gt;&lt;/div&gt;&lt;div id="polarion_wiki macro name=module-workitem;params=id=SCRUM--566|external=true"&gt;&lt;/div&gt;&lt;div id="polarion_wiki macro name=module-workitem;params=id=SCRUM--574|external=true"&gt;&lt;/div&gt;&lt;h2 id="polarion_wiki macro name=module-workitem;params=id=SCRUM--570"&gt;&lt;/h2&gt;&lt;div id="polarion_wiki macro name=module-workitem;params=id=SCRUM--571"&gt;&lt;/div&gt;&lt;div id="polarion_wiki macro name=module-workitem;params=id=SCRUM--572"&gt;&lt;/div&gt;&lt;div id="polarion_wiki macro name=module-workitem;params=id=SCRUM--573"&gt;&lt;/div&gt;&lt;p id="polarion_3"&gt;&lt;/p&gt;</field>
+    <field id="renderingLayouts">
+        <list>
+            <struct>
+                <item id="label">Requirement</item>
+                <item id="layouter">paragraph</item>
+                <item id="properties">
+                    <list>
+                        <struct>
+                            <item id="key">fieldsAtStart</item>
+                            <item id="value">id</item>
+                        </struct>
+                        <struct>
+                            <item id="key">fieldsAtEnd</item>
+                            <item id="value">status</item>
+                        </struct>
+                    </list>
+                </item>
+                <item id="type">requirement</item>
+            </struct>
+        </list>
+    </field>
+    <field id="status">draft</field>
+    <field id="structureLinkRole">parent</field>
+    <field id="title">Branched Document 1</field>
+    <field id="type">generic</field>
+    <field id="usesOutlineNumbering">true</field>
+</module>

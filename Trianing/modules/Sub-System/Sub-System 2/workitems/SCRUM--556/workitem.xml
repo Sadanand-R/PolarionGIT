@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<work-item>
+    <field id="ReqType" type="enum:ReqType">SubSystem</field>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">approved</item>
+                <item id="user">admin</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">admin</field>
+    <field id="created">2022-12-07 16:32:25.843 +0530</field>
+    <field id="description" text-type="text/html">Req 2 ready for review</field>
+    <field id="previousStatus">reviewed</field>
+    <field id="priority">50.0</field>
+    <field id="reqType" type="enum:reqtype">other</field>
+    <field id="severity">should_have</field>
+    <field id="status">approved</field>
+    <field id="type">requirement</field>
+</work-item>

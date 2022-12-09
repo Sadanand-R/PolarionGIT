@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test-run>
+    <field id="author">admin</field>
+    <field id="created">2022-12-08 11:14:42.671 +0530</field>
+    <field id="groupId">- - enter build id - -</field>
+    <field id="records">
+        <list>
+            <struct>
+                <item id="testCase">SCRUM--589</item>
+            </struct>
+            <struct>
+                <item id="testCase">SCRUM--589</item>
+                <item id="testParameters">
+                    <list>
+                        <struct>
+                            <item id="name">Browser</item>
+                            <item id="rawValue">Firefox</item>
+                        </struct>
+                    </list>
+                </item>
+            </struct>
+            <struct>
+                <item id="testCase">SCRUM--589</item>
+                <item id="testParameters">
+                    <list>
+                        <struct>
+                            <item id="name">Browser</item>
+                            <item id="rawValue">IE</item>
+                        </struct>
+                    </list>
+                </item>
+            </struct>
+            <struct>
+                <item id="testCase">SCRUM--589</item>
+                <item id="testParameters">
+                    <list>
+                        <struct>
+                            <item id="name">Browser</item>
+                            <item id="rawValue">Edge</item>
+                        </struct>
+                    </list>
+                </item>
+            </struct>
+        </list>
+    </field>
+    <field id="selectTestCasesBy">manualSelection</field>
+    <field id="status">open</field>
+    <field id="template">Empty</field>
+    <field id="testParameters">
+        <struct>
+            <item id="parameterDefinitions">
+                <list>
+                    <struct>
+                        <item id="name">usename</item>
+                    </struct>
+                    <struct>
+                        <item id="name">password</item>
+                    </struct>
+                    <struct>
+                        <item id="name">Browser</item>
+                    </struct>
+                </list>
+            </item>
+            <item id="parameters">
+                <list>
+                    <struct>
+                        <item id="name">usename</item>
+                        <item id="rawValue">admin</item>
+                    </struct>
+                    <struct>
+                        <item id="name">password</item>
+                        <item id="rawValue">admin</item>
+                    </struct>
+                    <struct>
+                        <item id="name">Browser</item>
+                        <item id="rawValue">Chrome</item>
+                    </struct>
+                </list>
+            </item>
+        </struct>
+    </field>
+    <field id="title">demo 1</field>
+    <field id="type">manual</field>
+    <field id="useReportFromTemplate">true</field>
+</test-run>

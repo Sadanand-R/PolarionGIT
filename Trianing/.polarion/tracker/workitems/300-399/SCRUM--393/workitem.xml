@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<work-item>
+    <field id="assignee">sandy</field>
+    <field id="author">admin</field>
+    <field id="budget" type="integer">100</field>
+    <field id="created">2022-12-07 11:49:44.813 +0530</field>
+    <field id="description" text-type="text/html">FM</field>
+    <field id="initialEstimate">12h</field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="role">implements</item>
+                <item id="workItem">SCRUM--392</item>
+            </struct>
+        </list>
+    </field>
+    <field id="previousStatus">open</field>
+    <field id="priority">50.0</field>
+    <field id="severity">normal</field>
+    <field id="status">inprogress</field>
+    <field id="title">FM</field>
+    <field id="type">task</field>
+</work-item>

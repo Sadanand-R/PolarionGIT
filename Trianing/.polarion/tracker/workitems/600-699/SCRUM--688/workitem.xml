@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<work-item>
+    <field id="assignee">andy</field>
+    <field id="author">admin</field>
+    <field id="created">2022-12-08 14:26:29.217 +0530</field>
+    <field id="priority">50.0</field>
+    <field id="severity">normal</field>
+    <field id="status">open</field>
+    <field id="title">Auto assignment capability</field>
+    <field id="type">task</field>
+</work-item>

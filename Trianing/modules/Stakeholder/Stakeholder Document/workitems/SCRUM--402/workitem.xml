@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<work-item>
+    <field id="author">admin</field>
+    <field id="created">2022-12-07 14:12:46.240 +0530</field>
+    <field id="description" text-type="text/html">This is epic for safety</field>
+    <field id="epicEstimate" type="enum:tshirt-sizes">xl</field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="revision">382</item>
+                <item id="role">satisfy</item>
+                <item id="workItem">SCRUM--551</item>
+            </struct>
+        </list>
+    </field>
+    <field id="previousStatus">draft</field>
+    <field id="priority">50.0</field>
+    <field id="severity">must_have</field>
+    <field id="status">accepted</field>
+    <field id="targetVersion" type="enum:@plan[template.id:release]">Release_1_0</field>
+    <field id="title">Safety_changed</field>
+    <field id="type">epic</field>
+</work-item>

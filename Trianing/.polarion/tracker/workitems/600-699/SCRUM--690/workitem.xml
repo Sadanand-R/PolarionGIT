@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<work-item>
+    <field id="assignee">andy</field>
+    <field id="author">admin</field>
+    <field id="categories">
+        <list>
+            <item>ui</item>
+        </list>
+    </field>
+    <field id="created">2022-12-08 14:40:20.673 +0530</field>
+    <field id="description" text-type="text/html">&lt;span style="font-size: 10pt;line-height: 1.5;"&gt;Auto assignment capability&lt;/span&gt;</field>
+    <field id="priority">50.0</field>
+    <field id="severity">should_have</field>
+    <field id="status">open</field>
+    <field id="title">Auto assignment capability</field>
+    <field id="type">custom</field>
+</work-item>

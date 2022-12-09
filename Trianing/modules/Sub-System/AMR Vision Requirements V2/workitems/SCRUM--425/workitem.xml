@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<work-item>
+    <field id="approvals">
+        <list>
+            <struct>
+                <item id="status">waiting</item>
+                <item id="user">admin</item>
+            </struct>
+        </list>
+    </field>
+    <field id="author">admin</field>
+    <field id="created">2022-12-07 14:40:46.974 +0530</field>
+    <field id="description" text-type="text/html">&lt;html&gt;&lt;head&gt;&lt;META http-equiv="Content-Type" content="text/html; charset=UTF-8"&gt;&lt;meta content="HTML Tidy for Java (vers. 27 Sep 2004), see www.w3.org" name="generator"&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span&gt;The car shall be able to stop from 100 kilometers per hour to 0 kph in&lt;/span&gt; &lt;span&gt;25&lt;/span&gt; &lt;span&gt;seconds.&lt;/span&gt;&lt;span&gt;&lt;br&gt;​​&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</field>
+    <field id="previousStatus">draft</field>
+    <field id="priority">50.0</field>
+    <field id="severity">should_have</field>
+    <field id="status">reviewed</field>
+    <field id="type">requirement</field>
+</work-item>

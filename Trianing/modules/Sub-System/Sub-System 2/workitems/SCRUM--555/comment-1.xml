@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comment>
+    <field id="author">admin</field>
+    <field id="created">2022-12-07 16:44:16.739 +0530</field>
+    <field id="tags">
+        <list>
+            <item>approvals</item>
+        </list>
+    </field>
+    <field id="text" text-type="text/plain">approved</field>
+    <field id="title">Approval comment</field>
+</comment>

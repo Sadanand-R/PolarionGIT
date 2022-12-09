@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<calculated-fields>
+    <calculated-field id="timeSpent">
+        <sum>
+            <childField><![CDATA[timeSpent]]></childField>
+        </sum>
+
+    </calculated-field>
+
+    <calculated-field id="remainingEstimate">
+        <sum>
+            <childField><![CDATA[remainingEstimate]]></childField>
+        </sum>
+
+    </calculated-field>
+
+</calculated-fields>

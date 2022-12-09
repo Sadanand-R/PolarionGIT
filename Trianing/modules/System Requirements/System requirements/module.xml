@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <field id="author">admin</field>
+    <field id="created">2022-12-07 15:01:08.990 +0530</field>
+    <field id="homePageContent" text-type="text/html">&lt;h1 id="polarion_wiki macro name=module-workitem;params=id=SCRUM--548"&gt;&lt;/h1&gt;&lt;h2 id="polarion_wiki macro name=module-workitem;params=id=SCRUM--552"&gt;&lt;/h2&gt;&lt;p id="polarion_1"&gt;This is introduction to System requirements&lt;/p&gt;&lt;h2 id="polarion_wiki macro name=module-workitem;params=id=SCRUM--553"&gt;&lt;/h2&gt;&lt;p id="polarion_2"&gt;This is the Purpose of the system Requirements document&lt;/p&gt;&lt;h2 id="polarion_wiki macro name=module-workitem;params=id=SCRUM--554"&gt;&lt;/h2&gt;&lt;p id="polarion_3"&gt;&lt;/p&gt;&lt;div id="polarion_wiki macro name=module-workitem;params=id=SCRUM--549"&gt;&lt;/div&gt;&lt;div id="polarion_wiki macro name=module-workitem;params=id=SCRUM--550"&gt;&lt;/div&gt;&lt;div id="polarion_wiki macro name=module-workitem;params=id=SCRUM--551"&gt;&lt;/div&gt;&lt;p id="polarion_4"&gt;&lt;/p&gt;</field>
+    <field id="renderingLayouts">
+        <list>
+            <struct>
+                <item id="label">User Story</item>
+                <item id="layouter">section</item>
+                <item id="properties">
+                    <list>
+                        <struct>
+                            <item id="key">fieldsAtStart</item>
+                            <item id="value">id</item>
+                        </struct>
+                    </list>
+                </item>
+                <item id="type">userstory</item>
+            </struct>
+        </list>
+    </field>
+    <field id="status">draft</field>
+    <field id="structureLinkRole">parent</field>
+    <field id="title">System requirements</field>
+    <field id="type">generic</field>
+    <field id="usesOutlineNumbering">true</field>
+</module>
